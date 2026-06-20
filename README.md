@@ -25,15 +25,6 @@ Full Stack Developer • AI/ML Explorer • Problem Solver
 
 ## 👩‍💻 About Me
 
-🎓 Final Year Computer Science Student
-
-💻 Passionate about Full Stack Development, AI, and Software Engineering
-
-🌱 Currently learning:
-- Advanced React
-- System Design
-- AI/ML & Agentic AI
-
 🚀 Building scalable web applications using the MERN Stack
 
 📚 Solving DSA problems and continuously improving problem-solving skills
