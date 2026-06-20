@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Ritika0226/Ritika0226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
