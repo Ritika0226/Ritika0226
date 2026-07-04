@@ -82,8 +82,6 @@ I'm **Ritika Chaurasiya**, an Information Technology student and a passionate **
   <img src="https://raw.githubusercontent.com/Ritika0226/Ritika0226/output/github-contribution-grid-snake.svg" alt="snake eating my contribution graph" width="100%"/>
 </p>
 
-<p align="center"><i>🐍 Heatmap ke same data ko snake khaate hue arcade style mein dikhata hai.</i></p>
-
 ---
 
 ### 📈 Profile Visitors
