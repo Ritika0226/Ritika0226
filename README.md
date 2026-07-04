@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritika</h1>
-<h3 align="center">Full-Stack MERN Developer | Java Developer | AI Enthusiast</h3>
+<h2 align="center">Full-Stack MERN Developer | Java Developer | AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ritika;Full-Stack+MERN+Developer;Java+Developer;AI+Enthusiast;Open+Source+Learner" alt="typing-svg" />
@@ -11,15 +11,15 @@
 <tr>
 <td width="60%">
 
-### 🚀 About Me
+## 👩‍💻 About Me
 
-- 🎓 Information Technology student, passionate about **Full-Stack MERN Development**
-- 💻 Building real-time chat apps & AI-powered code collaboration platforms
-- 🤖 Exploring **AI-powered applications**
-- 🌱 Currently learning **System Design, WebRTC & Cloud Deployment**
-- 📚 Practicing **Data Structures & Algorithms** in Java
-- 🌐 Open to collaborating on innovative full-stack and open-source projects
-- ⚡ Fun fact: I debug faster with chai in hand ☕
+I'm **Ritika Chaurasiya**, an Information Technology student and a passionate **Full-Stack MERN Developer**. I enjoy building modern, scalable web applications and solving real-world problems through code.
+
+- 💻 Skilled in **React.js, Node.js, Express.js, MongoDB, JavaScript, and Java**
+- 🤖 Exploring **AI-powered applications** and modern web technologies
+- 🚀 Building **real-time applications**, full-stack projects, and collaborative platforms
+- 📚 Regularly practicing **Data Structures & Algorithms**
+- ✨ Always eager to learn, collaborate, and contribute to open-source projects
 
 </td>
 <td width="40%">
