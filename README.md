@@ -61,11 +61,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ritika0226&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
 
 ---
 
@@ -74,8 +69,6 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote"/>
 </p>
-
-> 🔄 Ye quote widget har baar profile visit hone pe naya quote dikhata hai — page refresh karo to change hoga.
 
 ---
 
