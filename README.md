@@ -202,5 +202,5 @@ Multiple LLM agents research, draft, and compose newsletters end-to-end using Cr
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:6A00FF,50:2E0854,75:00D4FF,100:000000&height=130&section=footer"/>
 
 <div align="center">
-<sub>⭐ From <a href="https://github.com/Ritika0226">Ritika0226</a> — thanks for stopping by!</sub>
+<sub>⭐⭐ From <a href="https://github.com/Ritika0226">Ritika0226</a> — thanks for stopping by!</sub>
 </div>
