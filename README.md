@@ -145,7 +145,7 @@ Multiple LLM agents research, draft, and compose newsletters end-to-end using Cr
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ritika0226&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=B084FF&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika0226&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika0226&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff" height="166"/>
 
 <img src="https://streak-stats.demolab.com?user=Ritika0226&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=B084FF&currStreakLabel=00F0FF"/>
 
