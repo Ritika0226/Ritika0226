@@ -189,7 +189,7 @@ Multiple LLM agents research, draft, and compose newsletters end-to-end using Cr
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-## 🤝 &nbsp;Connect With Me
+## 🤝 &nbsp; Connect With Me
 
 <div align="center">
 
